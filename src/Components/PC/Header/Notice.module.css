@@ -1,0 +1,16 @@
+.Notice{
+  /* padding: 0rem 100rem ; */
+  font-size: 9rem;
+  justify-content: center;
+  align-items: center;
+  background-color:yellow; 
+  /* max-width: 600rem; */
+  margin: 0rem 90rem ;
+  text-align: center; 
+  line-height: 22rem; 
+  display:block;
+}
+
+.NoticeText{
+  margin: 0;
+}

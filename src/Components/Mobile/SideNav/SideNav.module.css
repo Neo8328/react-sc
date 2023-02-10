@@ -1,0 +1,21 @@
+.SideNav{
+  position: absolute;
+  width: 300rem;
+  height: 100%;
+  top: 0;
+  left: 450rem;
+  right: 0;
+  background-color: rgba(105, 86, 86, 0.6);
+  z-index: 99999;
+  text-align: center;
+  padding-top: 50rem;
+}
+
+.close{
+  /* position: absolute; */
+  position: fixed;
+  top: 10rem;
+  left: 700rem;
+  color:black;
+  font-size: 36rem;
+}

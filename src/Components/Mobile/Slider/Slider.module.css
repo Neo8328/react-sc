@@ -1,0 +1,16 @@
+.Slider{
+  top: 140rem;
+  width: 750rem;
+}
+
+.Arrow{
+  
+  font-size: 30rem;
+  color: blueviolet;
+
+}
+
+.CarouselImg{
+  width: 100%;
+  height: 450rem;
+}

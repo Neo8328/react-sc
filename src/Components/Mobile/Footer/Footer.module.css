@@ -1,0 +1,25 @@
+.Footer{
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  width: 750rem;
+  height: 120rem;
+  background-color: rgb(107, 93, 93);
+  bottom: 0rem;
+  /* border-radius: 20px; */
+  left: 0;
+  right: 0;
+  margin: 0;
+  z-index: 9999;
+}
+
+.FooterBox{
+  width: 25%;
+  display: flex;
+  border: 1px solid white;
+  color: aliceblue;
+  font-size: 80rem;
+  line-height: 0;
+  justify-content:center;
+  align-items: center;
+}

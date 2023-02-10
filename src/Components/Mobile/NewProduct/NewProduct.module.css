@@ -1,0 +1,40 @@
+.Recommend{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  max-width: 600rem;
+  margin-left: auto; 
+  margin-right: auto;
+  margin-top: 20rem;
+  margin-bottom: 150rem;
+  
+}
+
+.LoadmoreButton{
+  margin-top: 10rem;
+  margin-bottom: 150rem;
+  text-align: center;
+
+}
+
+.LoadmoreButton button{
+  width: 100rem;
+  font-size: 12rem;
+}
+
+.Title{
+  margin-top: 60rem;
+  font-size: 15rem;
+  font-weight: bold;
+  text-align:center;
+}
+
+.Img{
+  width: 100rem;
+  height: 100rem;
+}
+
+.ImgText{
+  font-size: 8rem;
+
+}

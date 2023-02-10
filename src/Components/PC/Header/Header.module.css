@@ -1,0 +1,73 @@
+.Header{
+  width: 745rem;
+  height: 57rem;
+  /* 开启弹性盒 */
+  display: flex;
+  /* 设置外边距 */
+  padding: 0rem 100rem ;
+  /* 设置辅助轴的对其方式 */
+  align-items: center;
+
+  border-bottom: 1px #f2f2f2 solid;
+  font-size: 30rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; 
+  background-image: url('../../../asset/imgs/bg-header2.jpg');
+  /* padding: 0 80rem; */
+  justify-content: space-between;
+}
+
+.ImgBox{
+  width: 280rem;
+  margin-right: 20rem;
+}
+
+img{
+  width: 100rem;
+}
+
+.InputOuter{
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 60%;
+  justify-content: center;
+}
+
+.SearchInput{
+  width: 250rem;
+  height: 20rem;
+  border: none;
+  background-color: #f2f2f2;
+  /* padding-left: 50rem; */
+  outline: none;
+  font-size: 12rem;
+  padding: 0;
+}
+
+.SearchIcon{
+  color: #aaaaaa;
+  font-size: 12rem;
+  position: absolute;
+  left: 270rem;
+  
+}
+
+.LoginOuter{
+  color: #aaaaaa;
+  font-size: 12rem;
+}
+
+.LoginOuter a{
+  text-decoration: none;
+  color: #aaaaaa;
+}
+
+.CartOuter{
+  position: relative;
+  font-size: 12rem;
+  color: #aaaaaa;
+  margin-left: 20rem;
+}

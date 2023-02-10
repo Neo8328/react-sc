@@ -1,0 +1,17 @@
+.Slider{
+  display: flex;
+  flex-flow: row;
+  /* width: 550rem; */
+  margin: 10rem 90rem;
+  justify-content: space-between;
+  align-content: space-between;
+
+}
+
+
+
+.Img{
+  height: 120rem;
+  width: auto;
+  margin: 1.6rem;
+}

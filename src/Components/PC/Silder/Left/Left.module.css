@@ -1,0 +1,15 @@
+.LeftBox{
+  width: 100%;
+  margin-left: -20rem;
+}
+.Arrow{
+  
+  font-size: 30rem;
+  color: rgb(73, 69, 76);
+
+}
+
+.CarouselImg{
+  width: 400rem;
+  height: 245rem;
+}

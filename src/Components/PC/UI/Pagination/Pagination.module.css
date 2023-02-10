@@ -1,0 +1,56 @@
+.main{
+  margin-top: 20rem;
+  display: flex;
+  width:100%;
+  justify-content:space-around;
+  align-items:flex-start;
+}
+
+.page{
+  list-style: none;
+  padding:0;
+  margin:0;
+  
+}
+
+.page li{
+  float:left;
+  width:30px;
+  min-width: 30px;
+  height:30px;
+  border:1px solid #e6e6e6;
+  text-align: center;
+  line-height: 30px;
+  color:#333;
+  cursor:pointer;
+
+  
+}
+
+.page li:first-of-type, li:last-of-type{
+  width:auto;
+  padding:0 5px;
+}
+
+.page li:first-of-type{
+  margin-right:10px;
+}
+
+.page li:last-of-type{
+  margin-left:10px;
+}
+
+.page li::selection {
+  background-color: transparent;
+}
+
+.active{
+  color:#fff !important;
+  background: #54b0bd;
+  border-color:#54b0bd !important;
+}
+
+.nomore{
+  color:#b5b5b5 !important;
+  pointer-events: none;
+}

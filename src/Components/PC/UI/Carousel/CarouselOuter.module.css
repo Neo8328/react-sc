@@ -1,0 +1,22 @@
+.Recommend{
+  text-align: center;
+  max-width: 600rem;
+  margin-left: auto; 
+  margin-right: auto;
+  margin-top: 20rem;
+}
+
+.Title{
+  font-size: 15rem;
+  font-weight: bold
+}
+
+.Img{
+  width: 100rem;
+  height: 100rem;
+}
+
+.ImgText{
+  font-size: 8rem;
+
+}

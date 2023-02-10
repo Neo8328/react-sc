@@ -1,0 +1,94 @@
+.Footer{
+  width: 745rem;
+  height: auto;
+  /* 开启弹性盒 */
+  display: flex;
+  flex-flow: column;
+  /* 设置外边距 */
+  /* padding: 0rem 100rem ; */
+  /* 设置辅助轴的对其方式 */
+  align-items: center;
+  /* margin: 10rem 0; */
+}
+
+.Partner{
+  display: flex;
+  
+}
+
+.Partner img{
+  margin: 0 10rem;
+  width: 125px;
+  height: 125px;
+}
+
+.Subscribe{
+  font-size: 9rem;
+  justify-content: center;
+  align-items: center;
+  background-color:#bfbfbf; 
+  width: 745rem; 
+  /* margin: 0rem 100rem ; */
+  padding: 20rem 0;
+  text-align: center; 
+  line-height: 22rem; 
+  /* display:block; */
+}
+
+.SubscribeText{
+  font-size: 20rem;
+  font-weight: bold;
+}
+
+.SubscribeText1{
+  color: #777;
+}
+
+.SubscribeText1 img{
+  width: 720rem;
+  height: auto;
+}
+
+.Contact{
+  display: flex;
+  flex-flow: column;
+  text-align: center; 
+  margin: 20rem 0;
+}
+
+.Contact1{
+  font-size: 8rem;
+}
+
+.Contact2{
+  margin: 10rem 0;
+  font-size: 8rem;
+  font-weight: bold;
+}
+
+.Link{
+  display: flex;
+  flex-flow: row;
+  font-size: 8rem;
+  justify-content: center;
+  align-items: center;
+  width: 750rem;
+  height: 30rem;
+}
+
+.Link img{
+  width: 75px;
+  height: auto;
+  
+}
+
+.LinkLeft{
+  justify-content: center;
+  align-items: center;
+  line-height: 30rem;
+}
+
+.LinkLeft a{
+  text-decoration: none;
+  color: #aaaaaa;
+}
